@@ -1,1 +1,10 @@
 theme: jekyll-theme-minimal
+
+title: 94pgSQL
+
+gems:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
