@@ -4,5 +4,5 @@
 {% endfor %}
 ## Recent Posts
 {% for post in site.posts offset:1 limit:10 %}
-   - [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
+* [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
 {% endfor %}
