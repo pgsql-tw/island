@@ -12,8 +12,6 @@ date: 2017-07-30
 畢竟使用手冊的說明還是很冗長，我們也打算在編譯的過程中，
 同時製作一些簡報，方便需要的人可以更快速入門。
 
-{::nomarkdown}
 <iframe width='513' height='343' src='https://gitpitch.com/pgsql-tw/twpug-doc/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
-{:/}
 
-或直接開始閱讀： (https://pgsql-tw.gitbooks.io/postgresql-10/)
+### 或直接開始閱讀： (https://pgsql-tw.gitbooks.io/postgresql-10/)
