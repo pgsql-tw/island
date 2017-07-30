@@ -21,5 +21,5 @@ date: 2017-07-30
 同時製作一些簡報，方便需要的人可以更快速入門。
 
 * 手冊簡介：[https://gitpitch.com/pgsql-tw/twpug-doc](https://gitpitch.com/pgsql-tw/twpug-doc)
-<iframe width='90%' height='auto' src='https://gitpitch.com/pgsql-tw/twpug-doc/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
+<iframe width='480' height='320' src='https://gitpitch.com/pgsql-tw/twpug-doc/master?grs=github&t=white' frameborder='0' allowfullscreen></iframe>
 * 或直接開始閱讀： [https://pgsql-tw.gitbooks.io/postgresql-10/](https://pgsql-tw.gitbooks.io/postgresql-10/)
