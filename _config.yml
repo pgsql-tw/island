@@ -1,6 +1,6 @@
 theme: jekyll-theme-leap-day
 
-title: 94pgSQL
+title: postgres的小島故事
 
 gems:
    - jekyll-mentions
