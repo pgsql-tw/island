@@ -2,6 +2,10 @@
 ---
 
 @import "jekyll-theme-minimal";
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(//fonts.googleapis.com/earlyaccess/cwtexyen.css);
 
+body { font-family: 'Noto Sans TC', sans-serif; }
+h1, h2, h3, h4, h5 { font-family: 'cwTeXYen', sans-serif; } 
 .wrapper { width: 1000px; }
 section { width: 714px; }
