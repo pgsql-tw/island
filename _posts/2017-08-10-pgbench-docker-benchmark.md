@@ -16,6 +16,7 @@ date: 2017-08-10
 
 ### 測試環境
 A. Ubuntu 17.04 + PostgreSQL 9.6.3 (比值為 100)
+
 B. Ubuntu 17.04 + Docker 17.06 + PostgreSQL 9.6.3
 
 ### 結果：TPS (including connections establishing)
