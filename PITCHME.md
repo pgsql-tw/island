@@ -13,3 +13,9 @@
 ## 先試試台灣中文的使用手冊吧!
 #### https://www.gitbook.com/book/pgsql-tw/postgresql-10
 #### 高高高手可以一起來協作唷!
+
++++
+
+## 來聊聊吧!
+#### https://gitter.im/pgsql-tw/
+#### 想聊什麼就聊什麼~
