@@ -28,3 +28,7 @@ PostgreSQL 官方也提供了 Docker 的使用方式，<br/>
 * DockerHub： [https://hub.docker.com/r/pgsqltw/postgres-big/](https://hub.docker.com/r/pgsqltw/postgres-big/)
 
 已設定好 Autobuild，所以在 DockerHub 上可以 pull 的就是可用的版本了。<br/>
+
+[![Docker Automated buil](https://img.shields.io/docker/automated/pgsqltw/postgres-big.svg)](https://hub.docker.com/r/pgsqltw/postgres-big/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/pgsqltw/postgres-big.svg)](https://hub.docker.com/r/pgsqltw/postgres-big/)
+[![Docker Build Statu](https://img.shields.io/docker/build/pgsqltw/postgres-big.svg)](https://hub.docker.com/r/pgsqltw/postgres-big/builds/)
