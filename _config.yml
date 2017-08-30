@@ -2,6 +2,8 @@ theme: jekyll-theme-minimal
 
 title: postgres的小島故事
 
+url: https://pgsql-tw.github.io/island/
+
 gems:
    - jekyll-mentions
    - jemoji
