@@ -5,5 +5,4 @@ permalink: posts.html
 
 ### 文章列表
 {% for post in site.posts %}
-* [{{ post.title }}]({{ site.baseurl }}{{ post.url }})
-{% endfor %}
+* [{{ post.title }}]({{ site.url }}{{ post.url }}){% endfor %}
