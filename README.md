@@ -1,7 +1,6 @@
+## PostgreSQL的小島故事
+* 部落格首頁：https://pgsql-tw.github.io/island/
+* 所有文章：https://pgsql-tw.github.io/island/allposts
 
-### 文章列表
-
-* [PostgreSQL 大補帖](https://pgsql-tw.github.io/island/2017/08/30/postgres-big.html)
-* [歡迎來到台灣 PostgreSQL 使用者社群](https://pgsql-tw.github.io/island/2017/08/15/welcome-to-twpug.html)
-* [簡易實測 PostgreSQL with Docker](https://pgsql-tw.github.io/island/2017/08/10/pgbench-docker-benchmark.html)
-* [正體中文使用手冊，編譯中...](https://pgsql-tw.github.io/island/2017/07/30/docs-for-tw-procesing.html)
+[![PostgreSQL小島故事](https://img.shields.io/badge/小島故事-PostgreSQL-blue.svg)](https://pgsql-tw.github.io/island/)
+[![PostgreSQL台灣使用者社群](https://img.shields.io/badge/台灣使用者社群-PostgreSQL-blue.svg)](https://pgsql-tw.github.io/)
