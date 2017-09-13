@@ -1,0 +1,1 @@
+For assets in posts
