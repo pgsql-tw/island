@@ -6,7 +6,7 @@ date: 2017-09-13
 
 來源：[A graphical overview of Postgres ecosystem](http://blog.postgresql-consulting.com/2017/09/postgresql-workings-in-one-picture.html)
 
-![A graphical overview of Postgres ecosystem](assets/posts/PostgreSQL-10-Performance-Observability.jpg)
+![A graphical overview of Postgres ecosystem]({{ site.baseurl }}/assets/posts/PostgreSQL-10-Performance-Observability.jpg)
 
 這篇文章整理了主要的 PostgreSQL 系統流程，很值得留下作為參考：
 
