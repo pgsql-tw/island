@@ -10,3 +10,5 @@ gems:
    - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
+
+google_analytics: UA-107092-17
