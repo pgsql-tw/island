@@ -6,7 +6,7 @@ date: 2017-10-30
 
 你知道 PostgreSQL 的字型是什麼嗎？
 
-根據[官方 wiki](https://wiki.postgresql.org/wiki/Identity_Guidelines#Font)，PostgreSQL 官方指定的字型是「Strait」。\
+根據[官方 wiki](https://wiki.postgresql.org/wiki/Identity_Guidelines#Font)，PostgreSQL 官方指定的字型是「Strait」。<br/>
 一般只有使用在各類圖示上，因為大部份的電腦裡並未內建這個字型。
 
 不過本頁的英文字型就是使用 Strait 唷！
