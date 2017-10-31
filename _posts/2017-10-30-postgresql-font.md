@@ -13,6 +13,7 @@ date: 2017-10-30
 不過這個字型並不適合用於內文顯示。<br/>
 剛好 Google Fonts 就提供 Strait 的網頁字型。
 - [Strait - Google Fonts](https://fonts.google.com/specimen/Strait)
+
 只要在 CSS 檔中 import 就可以使用這個字型了。
 ```
 @import url('https://fonts.googleapis.com/css?family=Strait');
