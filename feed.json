@@ -1,0 +1,33 @@
+---
+sitemap: false
+---
+
+
+{
+    "version": "https://island.postgresql.tw/version/1",
+    "title": "{{ site.title }}",
+    "home_page_url": "{{ site.url }}/",
+    "feed_url": "{{ site.url }}/feed.json",
+    "author": {
+    		"name": "{{ site.author }}"
+    },
+    
+    "items": [
+        {% for post in site.posts limit:20 %}
+        {
+            "id": "{{ post.identifier }}",
+            "title": "{{ post.title | cdata_escape }}",
+            "content_html": {{ post.content | jsonify }},
+            "url": "{{ site.url }}/{{ post.url }}",
+            "summary": "{{ post.excerpt }}",
+            
+            {% if post.link %}"external_url": "{{ post.link }}",{% endif %}
+            
+            {% if post.image %}"image": "{{ post.image }}",{% endif %}
+            
+            "tags": ["{{ post.tags}}"],
+            
+            "date_published": "{{ post.date | date_to_xmlschema }}"
+        }{% if forloop.last == false %},{% else %}{% endif %}{% endfor %}
+    ]
+}
