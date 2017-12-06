@@ -36,8 +36,7 @@
 
 ### Docker大補帖
 
-整合多項 PostgreSQL 套件，方便測試及部署 
-- https://github.com/pgsql-tw/docker
+- https://hub.docker.com/r/pgsqltw/postgres-big/
 - 10 (latest)
    - PostgreSQL 10
    - PL/Python 2 (plpythonu)
@@ -55,6 +54,7 @@
 1. 固定實體聚會
 2. 開源課程合作
 3. Foreign data wrapper 協作開發
+4. 多樣化 Docker 協作發佈
 
 ---
 
