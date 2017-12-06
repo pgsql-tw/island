@@ -22,9 +22,21 @@
 1. 中文文件整理
 2. Docker大補帖
 
++++
+
+### 中文文件整理
+- 正體中文使用手冊
+   - https://docs.postgresql.tw
+- 常見問題
+   - https://faq.postgresql.tw
+- (預計)Migration to PostgreSQL
+
 ---
 
-## 未來
+## 未來一年
+1. 固定實體聚會
+2. 開源課程合作
+3. Forien data wrapper 協作開發
 
 ---
 
