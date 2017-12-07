@@ -11,7 +11,9 @@
 +++
 
 ### 還沒有歷史
-#### 2017年4月成立
+
+- PostgreSQL 在台灣是個神祕的存在
+- 2017年4月成立
 
 ---
 
@@ -33,6 +35,8 @@
    - https://docs.postgresql.tw
 - 常見問題
    - https://faq.postgresql.tw
+- 官方wiki中文版
+   - https://wiki.postgresql.org/wiki/Taiwan
 - (預計)Migration to PostgreSQL
 
 +++
