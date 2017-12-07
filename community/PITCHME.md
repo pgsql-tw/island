@@ -20,7 +20,10 @@
 +++
 
 1. 中文文件整理
+   - 每月成長率約50%
 2. Docker大補帖
+   - Docker的I/O能力已經足以支援資料庫了
+   - http://island.postgresql.tw/2017/08/10/pgbench-docker-benchmark.html
 
 +++
 
