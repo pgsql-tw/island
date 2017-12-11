@@ -86,10 +86,16 @@
 
 +++
 
-### Foreign data wrapper
+### Foreign data wrapper (FDW)
+- 把任何資料源模擬成Table
+- 彈性決定資料是否需要存進資料庫
+- 彈性決定要取得多少資料
+- Oracle, MongoDB, RSS, CSV, Twitter, Google試算表......
+- FDW for data.gov.tw (擬)
 
 ---
 
 ## JOIN US
 ### BE POSTGRES
-postgresq.tw
+[pgsql-tw@github](https://github.com/pgsql-tw)
+[postgresq.tw](https://postgresql.tw)
