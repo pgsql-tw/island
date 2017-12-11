@@ -6,6 +6,13 @@
 
 ---
 
+## 關於PostgreSQL
+1. 標準SQL資料庫
+2. 目前最先進且完全開源的資料庫
+3. 可串連NoSQL
+
+---
+
 ## 歷史
 
 +++
@@ -63,6 +70,23 @@
 2. 開源課程合作
 3. Foreign data wrapper 協作開發
 4. 多樣化 Docker 協作發佈
+
+---
+
+## Bitnami WAPP
+## Foreign data wrapper
+
++++
+
+### Bitnami WAPP
+- https://bitnami.com/stack/wapp
+- PHP, PostgreSQL and Apache
+- Windows整合安裝包
+- 另有Mac及Linux版
+
++++
+
+### Foreign data wrapper
 
 ---
 
