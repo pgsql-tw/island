@@ -4,7 +4,7 @@ title: "PostgreSQL是2017年度資料庫系統"
 date: 2018-01-03
 ---
 
-譯自："PostgreSQL is the DBMS of the Year 2017", https://db-engines.com/en/blog_post/76
+譯自："[PostgreSQL is the DBMS of the Year 2017](https://db-engines.com/en/blog_post/76)"
 
 ## PostgreSQL is the DBMS of the Year 2017
 
