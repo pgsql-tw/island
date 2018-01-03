@@ -3,7 +3,6 @@ theme: jekyll-theme-minimal
 title: postgres的小島故事
 
 url: https://island.postgresql.tw
-baseurl: https://island.postgresql.tw
 
 gems:
    - jekyll-mentions
