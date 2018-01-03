@@ -6,7 +6,7 @@ date: 2018-01-03
 
 譯自："PostgreSQL is the DBMS of the Year 2017", https://db-engines.com/en/blog_post/76
 
-### PostgreSQL is the DBMS of the Year 2017
+## PostgreSQL is the DBMS of the Year 2017
 
 > **PostgreSQL 資料庫管理系統，在我們的資料庫引擎排名中，過去一年中比任何其他341個受觀注的資料庫系統都更受歡迎。
 > 因此，我們宣布PostgreSQL為2017年的年度DBMS。**
@@ -16,7 +16,7 @@ date: 2018-01-03
 結果是按照我們在「methodology」中測量的方式之一，依照他們在 2017 年設法增加其受歡迎程度的多少來排序 DBMS 列表，
 換句話說，還有多少人開始討論這個系統，又或是工作機會， 以及在網路上的專業介紹條目和引用。
 
-### 年度資料庫系統： PostgreSQL
+## 年度資料庫系統： PostgreSQL
 
 雖然 PostgreSQL 去年的排行榜上就已經排名第三，但 2017 年對於 PostgreSQL 來說又是更好的一年。
 在 2017 年的每月單月排名中，總得分 55.81 分（+ 17%），提高了評分，2017 年優於其他所有系統。
@@ -29,7 +29,7 @@ PostgreSQL 10 的新版本肯定有助於進一步激發使用者對該產品的
 隨著 Declarative Partitioning 的導入，改良的 Query Parallelism，Logical Replication 和 Synchronous Replication 的定額提交，
 PostgreSQL 10 特別專注於在多個結點間有效分散資料的增強功能。
 
-### 亞軍： ElasticSearch
+## 亞軍： ElasticSearch
 
 ElasticSearch 曾在 2014 年的 DBMS 年度最佳系統中名列前茅。
 它是迄今為止最受歡迎的搜索引擎（領先 Solr 和 Splunk），並在 2017 年將其得分提高了 16.38 分（+ 15%）。
@@ -37,7 +37,7 @@ ElasticSearch 曾在 2014 年的 DBMS 年度最佳系統中名列前茅。
 有兩個原因可能是 ElasticSearch 持續成功的原因：ElasticSearch 6在去年11月發布，
 ElasticSearch 背後的公司使用 Elastic Stack 建立了一個圍繞著 ElasticSearch 的生態系統，其中包括資料收集工具，資料可視化工具，以及機器學習。
 
-### 第三名： MariaDB
+## 第三名： MariaDB
 
 MariaDB 在 2017 年將其分數提高了 13.26 分（+ 29%）。2017年1月，該分數排名第 20，2017 年之中攀升至第 17 位。
 值得注意的是，MariaDB 的前輩 MySQL 在同一時期的得分為 66.58（-6%）。
@@ -45,7 +45,7 @@ MariaDB 在 2017 年將其分數提高了 13.26 分（+ 29%）。2017年1月，�
 
 我們祝賀 PostgreSQL，ElasticSearch 和 MariaDB 在2017 年度的成功。
 
-### DB-Engines 先前的資料庫年度得獎者：
+## DB-Engines 先前的資料庫年度得獎者：
 
 - PostgreSQL	2017
 - Microsoft SQL Server	2016
