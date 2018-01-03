@@ -13,8 +13,8 @@ date: 2018-01-03
 
 為了決定當年度的 DBMS，我們以 2018 年 1 月的最新得分扣除了 2017 年 1 月份的人氣分數。
 我們使用這些數字的差異，而不是一個百分比，因為這將有利於今年年初剛開始受到歡迎的系統。
-結果是按照我們在「[methodology](https://db-engines.com/en/ranking_definition)」中測量的方式之一，依照他們在 2017 年設法增加其受歡迎程度的多少來排序資料庫系統列表，
-換句話說，還有多少人開始討論這個系統，又或是工作機會， 以及在網路上的專業介紹條目和引用。
+結果是按照我們在「[Method of calculating the scores of the DB-Engines Ranking](https://db-engines.com/en/ranking_definition)」中計算的方式，依照他們在 2017 年增加其受歡迎的程度來排序資料庫系統的列表，
+換句話說，包括了有多少人開始討論這個系統，或是工作機會， 以及在網路上的專業介紹條目和引用。
 
 ## 年度資料庫系統： PostgreSQL
 
