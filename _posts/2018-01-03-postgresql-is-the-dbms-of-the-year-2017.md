@@ -8,7 +8,7 @@ date: 2018-01-03
 
 ## PostgreSQL is the DBMS of the Year 2017
 
-> **PostgreSQL 資料庫管理系統，在我們的[資料庫引擎排名](https://db-engines.com/en/ranking)中，過去一年中比任何其他 341 個受觀注的資料庫系統都更受歡迎。
+> **PostgreSQL 資料庫管理系統，在我們的[資料庫引擎排名](https://db-engines.com/en/ranking)中，過去一年中比任何其他 341 個受關注的資料庫系統都更受歡迎。
 > 因此，我們宣布 PostgreSQL 獲選為 2017 年的年度資料庫系統。**
 
 為了決定當年度的 DBMS，我們以 2018 年 1 月的最新得分扣除了 2017 年 1 月份的人氣分數。
@@ -47,15 +47,15 @@ MariaDB 在 2017 年將其分數提高了 13.26 分（+ 29%）。2017年1月，�
 
 ## DB-Engines 先前的資料庫年度得獎者：
 
-- PostgreSQL	2017
-- Microsoft SQL Server	2016
-- Oracle	2015
-- MongoDB	2014
-- MongoDB	2013
+- 2017: PostgreSQL
+- 2016: Microsoft SQL Server
+- 2015: Oracle
+- 2014: MongoDB
+- 2013: MongoDB
 
 2017 年的特點還有：
 - Oracle，MySQL 和 Microsoft SQL Server。 雖然他們的分數下降了，但他們仍然無可爭議地領先 DB-Engines 的人氣排名。
 - 時間序列資料庫是成長最強勁的資料庫類別。2017 年，他們的成績令人印象深刻，增加了 70% 左右。
 - 雲端的資料庫管理系統進一步提高了他們的知名度，是公認的自建資料庫管理系統的替代方案。
 
-我們會在 2018 年繼續觀注資料庫系統的趨勢。
+我們會在 2018 年繼續關注資料庫系統的趨勢。
