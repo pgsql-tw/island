@@ -22,6 +22,9 @@ PostgreSQL 資料庫管理系統，在我們的資料庫引擎排名中，過去
 
 雖然 PostgreSQL 去年的排行榜上就已經排名第三，但 2017 年對於 PostgreSQL 來說又是更好的一年。
 在 2017 年的每月單月排名中，總得分 55.81 分（+ 17%），提高了評分，2017 年優於其他所有系統。
+
+![database of the year 2017](https://rawgit.com/pgsql-tw/island/master/assets/posts/doty2017.png)
+
 在 2017 年期間，PostgreSQL 超越了 MongoDB，並且在 DB-Engines 人氣排名中獲得了第四名。
 
 PostgreSQL 10 的新版本肯定有助於進一步激發使用者對該產品的興趣。
