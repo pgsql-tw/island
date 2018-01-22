@@ -8,7 +8,7 @@ date: 2018-01-22
 內容清楚明確，適合入門學習。<br/>
 目前 9.0 版仍然是主流版本，操作及觀念都能在後續版本使用。<br/>
 
-<object data="https://rawgit.com/pgsql-tw/island/master/assets/posts/PostgreSQL9-Ricky-Liao.pdf" type="application/pdf" width="300" height="400">
+<object data="https://rawgit.com/pgsql-tw/island/master/assets/posts/PostgreSQL9-Ricky-Liao.pdf" type="application/pdf" width="90%" height="400">
 <iframe src="https://rawgit.com/pgsql-tw/island/master/assets/posts/PostgreSQL9-Ricky-Liao.pdf" width="100%" height="100%" style="border: none;">
 This browser does not support PDFs. Please download the PDF to view it: <a href="https://rawgit.com/pgsql-tw/island/master/assets/posts/PostgreSQL9-Ricky-Liao.pdf">Download PDF</a>
 </iframe>
