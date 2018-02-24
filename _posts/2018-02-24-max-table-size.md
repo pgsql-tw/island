@@ -13,7 +13,7 @@ date: 2018-02-24
 只不過，你也需要重建一次你的資料庫就是了。（重編譯+回存資料）<br/>
 一般人大概不會這麼做，所以要說最大是 32TB，也是沒錯的。
 
-那如果更進一步加入 Partition Table 的支援呢？<br/>
+那如果更進一步加入 [Partition Table](https://docs.postgresql.tw/tw.10/ii-the-sql-language/data-definition/510-table-partitioning.html) 的支援呢？<br/>
 一個資料表可以集合許多資料表而成，雖然使用上有一些限制，但這裡只考慮大小。<br/>
 在 PostgreSQL 10 支援到 65,535 個子資料表，<br/>
 而 PostgreSQL 11 則支援到 2^32 個子資料表。
