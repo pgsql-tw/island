@@ -8,7 +8,7 @@ date: 2018-02-24
 
 不過這似乎只是宣告的問題而已。<br/>
 因為 PostgreSQL 所編譯的 block size 是 8,192 Bytes，<br/>
-但實際上是可以修改到 32,768 Bytes。<br/>
+但實際上是可以[修改到 32,768 Bytes](https://www.postgresql.org/docs/10/static/install-procedure.html)。<br/>
 如此一來，Table 的極限就不是 32TB，而是 128TB，<br/>
 只不過，你也需要重建一次你的資料庫就是了。（重編譯+回存資料）<br/>
 一般人大概不會這麼做，所以要說最大是 32TB，也是沒錯的。
