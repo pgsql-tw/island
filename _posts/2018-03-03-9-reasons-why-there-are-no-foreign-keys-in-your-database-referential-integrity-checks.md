@@ -3,6 +3,7 @@ layout: post
 title: "[譯]資料庫中不使用外部鍵的 9 個理由"
 date: 2018-03-03
 ---
+![](https://github.com/pgsql-tw/island/blob/master/assets/posts/why_no_foreign_keys.png?raw=true)
 
 # [譯]9 Reasons Why There Are No Foreign Keys in Your Database (Referential Integrity Checks)[^1]
 
