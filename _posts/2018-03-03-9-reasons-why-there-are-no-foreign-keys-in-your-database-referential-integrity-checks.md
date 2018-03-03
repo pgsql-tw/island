@@ -67,7 +67,7 @@ Reasons presented below are **in no way encouragement not to use foreign key con
 
 ## 結論 {#toc_2}
 
-我希望我能夠提出明智的理由，為什麼外部鍵的使用並不像許多人想像中的那麼廣泛。如果您知道其他原因或不同意我的論點，請[發表評論](https://dataedo.com/blog/why-there-are-no-foreign-keys-in-your-database-referential-integrity-checks)。
+我希望我能夠提出明智的理由，為什麼外部鍵的使用並不像許多人想像中的那麼廣泛。如果您知道其他原因或不同意我的論點，請發表評論（[請至原文頁面](https://dataedo.com/blog/why-there-are-no-foreign-keys-in-your-database-referential-integrity-checks)）。
 
 ## 延伸資訊 {#toc_3}
 
