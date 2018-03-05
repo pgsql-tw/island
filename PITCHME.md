@@ -1,11 +1,11 @@
 ## 台灣 PostgreSQL 使用者社群
-#### https://pgsql-tw.github.io/
+#### https://postgresql.tw/
 #### 來看看吧!
 #### (簡稱 pgsql-tw 或 TWPUG 唷!)
 
 ---
 
-## 願景
+## Be Postgres
 #### 人不親土親
 #### 別讓語言或是地域阻隔了我們的熱情!
 
@@ -17,8 +17,20 @@
 +++
 
 ## 先試試台灣中文的使用手冊吧!
-#### https://www.gitbook.com/book/pgsql-tw/postgresql-10
+#### https://docs.postgresql.tw
 #### 高高高手可以一起來協作唷!
+
++++
+
+## Follow us!
+#### https://www.facebook.com/pgsqlTaiwan/
+#### 社群會分享各種最新資訊唷!
+
++++
+
+## Join us!
+#### https://www.facebook.com/groups/pgsql.tw
+#### 來這裡找高手吧！
 
 +++
 
@@ -26,15 +38,8 @@
 #### https://gitter.im/pgsql-tw/
 #### 想聊什麼就聊什麼~
 
-+++
-
-## 讀書會
-#### 面對面可以交流更多吧!
-#### 到官網聯絡我唷!
-#### 好啦, 這裡也有 02-6607-2508
-
 ---
 
 ## 接下來呢?
-#### pgSQL+1 協作計畫
-#### 其他.....還在想XD
+#### .....還在想XD
+#### 請聯絡我們：[contact@postgresql.tw](mailto:contact@postgresql.tw)
