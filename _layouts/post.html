@@ -20,13 +20,13 @@
         <h1>{{ page.title }}</h1>
         <p style="text-align:right; font-style:italic;">{{ page.date | date: '%B %d, %Y' }}</p>
       {{ content }}
-
+      <hr/>
+      <div style="text-align:center;">
+        <img src="https://github.com/pgsql-tw/promotional-materials/blob/master/TWPUG-sticker/pgsql-tw-sticker-3.png?raw=true" width="150"/>
+      </div>
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        {% include footer.html %}
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
