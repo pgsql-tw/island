@@ -1,2 +1,6 @@
 <p class="view" title="標示來源即可於任何用途使用">本站內容以 <a href="https://creativecommons.org/licenses/by/4.0/deed.zh_TW">CC by 4.0</a> 授權使用</p>
 <hr/>
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
