@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "深受喜愛的 RDB - 2018 Stack Overflow"
+title: "深受喜愛的資料庫 - 2018 Stack Overflow"
 date: 2018-03-14
 ---
 ![](/assets/posts/Loved-DB-Stack-Overflow-2018.png)
