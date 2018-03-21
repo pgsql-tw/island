@@ -2,6 +2,7 @@
 layout: post
 title: "pgAdmin4 正體中文專案啓動！"
 date: 2018-03-21
+ogimg: "/assets/posts/pgadmin4_welcome_logo.png"
 ---
 ![](/assets/posts/pgadmin4_welcome_logo.png)
 
