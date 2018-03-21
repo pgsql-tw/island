@@ -15,9 +15,10 @@ pgAdmin 是官方支援，也是許多人日常使用的圖型化管理工具。
 後續再逐步調整台灣用語。
 
 專案位置：
-- https://github.com/pgsql-tw/pgadmin4-zh_Hant_TW
+- [https://github.com/pgsql-tw/pgadmin4-zh_Hant_TW](https://github.com/pgsql-tw/pgadmin4-zh_Hant_TW)
 
-使用上算是簡便，任何指教都請提 issue 反映。
+使用上算是簡便，任何指教都請提 issue 反映。<br/>
+當然也希望能夠一起協作。
 
 實際上缺漏的部份還是很多，<br/>
 再補完多一些之後，再試著合併到官方repo中。
