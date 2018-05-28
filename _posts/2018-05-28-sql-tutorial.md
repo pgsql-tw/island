@@ -8,7 +8,7 @@ PostgreSQL notebook 互動式筆記：SQL Tutorial
 - [02_SQL Tutorial.ipynb](https://github.com/pgsql-tw/notebook/blob/master/02_SQL%20Tutorial.ipynb)
 
 對於 SQL 的入門使用者而言，<br/>
-看著接腫而來的各種指令，有抗拒感是理所當然的吧。
+看著接踵而來的各種指令，有抗拒感是理所當然的吧。
 
 其實 PostgreSQL 使用手冊設計了一個淺顯易懂的範例，<br/>
 以應用情境，串連一些常用的指令。<br/>
