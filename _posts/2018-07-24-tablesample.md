@@ -18,7 +18,7 @@ ogimage: "/assets/posts/tablesample.png"
 
 不囉嗦，就看圖說故事吧。（指令如後所示）
 
-[](/assets/posts/tablesample.png)
+![](/assets/posts/tablesample.png)
 
 請注意，不同的資料分佈會産生不同的曲線。<br/>
 本例中，執行 50 次，時間誤差約 7%，<br/>
